@@ -1,6 +1,6 @@
 # Yo
 
-My name is Kári and I am studying for the MSc Statistics at Imperial College. My research interests
+My namee is Kári and I am studying for the MSc Statistics at Imperial College. My research interests
 are rooted in statistical and population genetics, and my current project investigates confounding
 population structure such as assortative mating.
 
@@ -11,4 +11,4 @@ Other interests:
 - Prophecy
 - Cooking
 
-[Interesting link](https://www.mbl.is/frettir)
+[Interssting link](https://www.mbl.is/frettir)
